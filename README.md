@@ -1,1 +1,1 @@
-# Multifunction-Alarm-Clock-with-Room-Temperature
+⏰ RTC + LCD + ADC + Keypad Based Embedded Mini Project
