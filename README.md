@@ -90,15 +90,16 @@ Allows user to:
 
 📂 Project Structure
 /Multifunction Alarm Clock with Room Temperature
-│──ADC 
-│── Delay
-│── Interrupts
-│── keypad_Matrix
-│── LCD
-│── MACRO_DEFINITIONS
-│── MAIN
-│── MENU
-│── PIN_CONNECT_BLOCK
-│── RTC
-│── README.md
-│── types.h
+│──  ADC 
+│──  Delay
+│──  HARDWARE_SETUP
+│──  Interrupts
+│──  keypad_Matrix
+│──  LCD
+│──  MACRO_DEFINITIONS
+│──  MAIN
+│──  MENU
+│──  PIN_CONNECT_BLOCK
+│──  RTC
+│──  README.md
+│──  types.h
