@@ -89,14 +89,16 @@ Allows user to:
 
 
 📂 Project Structure
-/RTC_LCD_ADC_Keypad
-│── main.c
-│── lcd.c
-│── lcd.h
-│── rtc.c
-│── rtc.h
-│── adc.c
-│── adc.h
-│── keypad.c
-│── keypad.h
+/Multifunction Alarm Clock with Room Temperature
+│──ADC 
+│── Delay
+│── Interrupts
+│── keypad_Matrix
+│── LCD
+│── MACRO_DEFINITIONS
+│── MAIN
+│── MENU
+│── PIN_CONNECT_BLOCK
+│── RTC
 │── README.md
+│── types.h
