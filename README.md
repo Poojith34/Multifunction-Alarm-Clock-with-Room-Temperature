@@ -1,4 +1,4 @@
-⏰ RTC + LCD + ADC + Keypad Based Embedded Mini Project
+⏰ RTC + LCD + ADC + Keypad Based Embedded Project
 
 A microcontroller-based embedded systems mini project that integrates Real Time Clock (RTC), 16×2 LCD, ADC, and Keypad to demonstrate real-time data acquisition, user interaction, and peripheral interfacing using I2C and GPIO.
 
